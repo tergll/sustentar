@@ -3,10 +3,15 @@ This repo is mainly for collecting the collab notebooks for the project in one p
 
 ## Code notebooks
 1. object detection by Yolo model
+
 https://colab.research.google.com/drive/1pFUs0gRgmhuyleHZtbZSoagFGu0xfLII?usp=sharing
+
 2. image cropping
+
 https://colab.research.google.com/drive/16k7_Abm5hh9VLqV-T7k6OfQDCckvxewc?usp=sharing
+
 3. clustering
+
 https://colab.research.google.com/drive/1bWlFeIpzswzjFRPdvYif4otORD-p28rw?usp=sharing
 
 ## Detailed explanation for each notebook
