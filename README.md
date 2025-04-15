@@ -1,4 +1,4 @@
-# Sustenar recycling
+# Sustentar recycling
 ## Project Definition
 This project aims to analyze recycling behavior across different residential areas using computer vision. By detecting and categorizing objects in waste images, it identifies patterns in how communities sort their recyclables. The goal is to uncover discrepancies or inefficiencies between areas and use this data to inform targeted policy changes or educational interventions. Ultimately, it enables a data-driven approach to improving recycling compliance and environmental impact.
 
