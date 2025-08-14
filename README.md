@@ -6,7 +6,7 @@ This project aims to analyze recycling behavior across different residential are
 This repo is mainly for collecting the collab notebooks for the project in one place
 
 ## Code notebooks
-1. object detection by Yolo model
+1. Object detection by the Yolo model + cropping to zoom into the desk:
 
 https://colab.research.google.com/drive/1pFUs0gRgmhuyleHZtbZSoagFGu0xfLII?usp=sharing
 
