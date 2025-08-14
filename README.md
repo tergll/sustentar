@@ -8,7 +8,7 @@ This repo is mainly for collecting the collab notebooks for the project in one p
 ## Code notebooks
 **1. Demonstrating how object detection by "Yolo" model works + cropping to zoom into the desk:**
 
-https://colab.research.google.com/drive/1pFUs0gRgmhuyleHZtbZSoagFGu0xfLII?usp=sharing
+https://colab.research.google.com/drive/1CVTBW4LzLCr6rbmZ6yEzN3RwXJDm5qrv?usp=sharing
 
 This notebook demonstrates how to crop the top portion of selected images and use a YOLO object detection model to identify and visualize specific objects within the cropped sections. It refines the detection process by adjusting the confidence threshold to capture even faint object predictions, allowing users to see more detailed results. The workflow is ideal for testing detection accuracy on manually prepared images from a recycling context or household setting.
 
